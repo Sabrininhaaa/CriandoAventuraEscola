@@ -1,0 +1,22 @@
+
+body {
+    background-color: pink;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+
+button {
+    background-color: rgb(218, 120, 136);
+    color: black; }
+
+    .passo {
+        display: none;
+    }
+
+    .passo.ativo {
+        display:block;
+    }
